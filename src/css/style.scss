@@ -1,0 +1,20 @@
+/** {
+  color: #00f;
+}*/
+
+.container {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+  border: 1px solid #f00;
+
+  div {
+    border: 1px dashed #f80;
+    color: #00f;
+
+    img {
+      width: 20px;
+      height: 20px;
+    }
+  }
+}
